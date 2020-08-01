@@ -1,0 +1,196 @@
+
+#title {
+  background-color: #FF4C68;
+  color: #fff;
+
+}
+
+body {
+  font-family: "Open Sans"
+
+}
+
+p {
+  color: #8f8f8f;
+}
+
+
+
+.icon  {
+  font-size: 3.25rem;
+  color: #FF4C68;
+  /* color: #ef8172; */
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #ef8172;
+}
+
+
+.h2e {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+
+ .slogan {
+ font-family: "Montserrat";
+ font-size: 3.81rem;
+}
+
+.tinderdog {
+  font-family: "Ubuntu";
+  font-size: 50px;
+  color: #fff;
+}
+
+
+
+.left-padding {
+  padding: 3% 15% 12%;
+
+}
+
+/* navigation Bar */
+
+.nav1 {
+  padding: 0 0 4.5rem;
+}
+
+
+
+
+.navbar-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "open sans";
+}
+
+
+/* download button? */
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 30%;
+}
+
+/* features */
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  position: relative;
+  z-index: 1;
+
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.perks {
+  font-family: "Montserrat";
+}
+
+#testimonials {
+  text-align: center;
+  background-color: #ff6363;
+  color: #fff;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+#press {
+  background-color: #ff6363;
+  text-align: center;
+  padding-bottom: 3%;
+}
+/* pricing */
+#pricing {
+  padding: 100px;
+  text-align: center;
+}
+
+.emoji  {
+  font-size: 5rem;
+}
+
+.hidden {
+  color: #fff;
+}
+
+
+.press-logo {
+  width: 13%;
+  margin: 20px 20px 50px
+}
+
+.pricing-card {
+  padding: 3% 2%;
+}
+@media (max-width: 1028px) {
+
+#title {
+  text-align: center;
+}
+}
+
+@media (max-width: 1028px) {
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
+}
+/* cta */
+#footer-top {
+  font-family: "Montserrat";
+  text-align: center;
+  background-color: #FF4C68;
+  color: #fff;
+  padding: 7% 15%;
+}
+
+#footer {
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+.footer-header {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+.download-button2 {
+  padding-bottom: 15px;
+  margin: 5% 2% 5% 0;
+  margin: 4px;
+}
+
+.stars {
+  color: #f0a500;
+  margin: 5px;
+}
