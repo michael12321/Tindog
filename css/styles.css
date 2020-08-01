@@ -161,6 +161,12 @@ p {
     transform: rotate(0);
   }
 }
+
+@media (max-width: 500px) {
+  p {
+    font-size: 2rem;
+  }
+}
 /* cta */
 #footer-top {
   font-family: "Montserrat";
@@ -191,6 +197,6 @@ p {
 }
 
 .stars {
-  color: #f0a500;
+  color: gold;
   margin: 5px;
 }
